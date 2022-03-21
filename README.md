@@ -1,6 +1,6 @@
 # Super-Trunfo
 
-O desafio consiste em criar o jogo de cartas super trunfo, que coloca duas cartas diferentes com atributos para batalhar e dependendo do atributo vence a carta que tiver o maior valor.
+O desafio consiste em criar o jogo de cartas super trunfo, que coloca duas cartas diferentes com atributos para batalhar, dependendo do atributo, vence a carta que tiver o maior valor.
 
 <img src="imagens/tela.png" alt="exemplo imagem">
 
