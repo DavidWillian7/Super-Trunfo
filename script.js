@@ -231,13 +231,13 @@ function jogar(){
 }
 
 function vencedor(){
-    if(placar[0] == 3){
+    if(placar[0] == 10){
         document.getElementById("mensagem").innerHTML = "Parabéns você venceu!"
         document.getElementById("joga").disabled = true;
         document.getElementById("sorteio").disabled = true;
         document.getElementById("iniciar").disabled = false;
         return true;
-    }else if(placar[1] == 3){
+    }else if(placar[1] == 10){
         document.getElementById("mensagem").innerHTML = "Infelizmente você perdeu!"
         document.getElementById("joga").disabled = true;
         document.getElementById("sorteio").disabled = true;
